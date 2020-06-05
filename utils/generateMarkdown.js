@@ -4,6 +4,7 @@ const generateMarkdown = (data) => {
   ## Title
   ### ${ data.title }
   ![badge](https://img.shields.io/badge/JavaScript-100%25-green
+    
   ## Table of Contents
 - [Description](#description)
 - [Installation](#install)
@@ -35,7 +36,6 @@ const generateMarkdown = (data) => {
 
 ## Questions
 ### [${ data.username } for GitHub](https://github.com/${ data.username })  
-### ${ data.email } for ✉️ email
 `;
 }
 
