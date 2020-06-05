@@ -14,8 +14,6 @@ The README will be populated with the following:
 * Contributing
 * Tests
 * Questions
-  * User GitHub profile picture
-  * User GitHub email
 
 ```
 AS A developer
