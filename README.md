@@ -1,7 +1,7 @@
 
   ## Title
   ### hmk
-  https://img.shields.io/badge/JavaScript-100%25-green
+  ![Badge](https://img.shields.io/badge/JavaScript-100-green)
     
   ## Table of Contents
 - [Description](#description)
@@ -24,13 +24,12 @@
 
 ## License
 
-[![License](https://img.shields.io/badge/License-GNU GPLv3-green.svg)
 
 ## Contribution
-### undefined
+### kathleen-y
           
-##  Tests 🔨
+##  Tests
 ### type in npm test
 
 ## Questions
-### [undefined for GitHub](https://github.com/undefined)  
+### [Kathleen-Y for GitHub](https://github.com/Kathleen-Y)  
