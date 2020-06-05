@@ -1,7 +1,7 @@
 
   ## Title
   ### hmk
-  ![badge](https://img.shields.io/badge/JavaScript-100%25-green
+  https://img.shields.io/badge/JavaScript-100%25-green
     
   ## Table of Contents
 - [Description](#description)
