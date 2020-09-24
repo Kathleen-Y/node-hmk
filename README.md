@@ -1,64 +1,29 @@
- ## Node.js and ES6+:
-
+# node-hmk
 Create a command-line application that dynamically generates a README.md from a user's input. 
-
-The README will be populated with the following:
-
-* At least one badge
-* Project title
-* Description
-* Table of Contents
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+![GitHub repo size](https://img.shields.io/github/repo-size/Kathleen-Y/node-hmk?logo=github)
 
 ```
-AS A developer
-
-I WANT a README generator
-
-SO THAT I can easily put together a good README for a new project
+As a business owner
+I want to be able to view and manage the departments, roles, and employees in my company
+So that I can organize and plan my business
 ```
 
-## Business Context
+# Technologies Used
 
-A command-line application will allow for quick and easy generation of a project README to get started quickly.
+1. MySQL
+2. Node.js
+2. Inquirer
 
-## Minimum Requirements
+# Table of Contents
 
-* Functional, deployed application.
-* GitHub repository with a unique name and a README describing project.
-* The generated README includes the following sections: 
-  * Title
-  * Description
-  * Table of Contents
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+* [Installation](#installation)
+* [Instructions](#instructions)
+* [Contact](#contact)
 
-* The generated README includes 1 badge that's specific to the repository.
+## Installation
+> 1.npm init // 2.npm install inquirer, and MySQL.
+> 2. run node server.js 
 
-```
-GIVEN the developer has a GitHub profile and a repository
-
-WHEN prompted for the developer's GitHub username and repo specific information
-
-THEN a README for the repo is generated
-```
-- - -
-
-![Badge](link)
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* A video demonstrating the entirety of the app's functionality 
-* A generated README.md file for a project repo.
-* The URL of the GitHub repository.
+## Contact
+* Homepage: [@profile](https://github.com/Kathleen-Y)
+* Twitter: [@Ros3p3tal](https://twitter.com/Ros3p3tal)
