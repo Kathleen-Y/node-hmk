@@ -3,6 +3,7 @@
 Create a command-line application that dynamically generates a README.md from a user's input. 
 <hr >
 
+## User Story
 ```
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
